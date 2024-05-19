@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BadRep (a record label)</title>
+    <link>https://example.org/</link>
+    <description>Recent content on BadRep (a record label)</description>
+    <generator>Hugo -- 0.123.8</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J Douglas &amp; the Noises Inside</title>
+      <link>https://example.org/noises-inside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/noises-inside/</guid>
+      <description>J. Douglas &amp;amp; the Noises Inside (ex. The Others, japan::4) make the music, you do the dissociation; We meet in the middle somewhere.
+New EP matter to waves out now.</description>
+    </item>
+    <item>
+      <title>japan::4</title>
+      <link>https://example.org/japan-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/japan-4/</guid>
+      <description>downtempo synthpop for the dancer in us all.</description>
+    </item>
+  </channel>
+</rss>

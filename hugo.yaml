@@ -1,0 +1,5 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: "BadRep (a record label)"
+theme: PaperMod
+publishDir: docs
