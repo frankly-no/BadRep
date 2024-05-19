@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://frankly-no.github.io/BadRep/sitemap.xml

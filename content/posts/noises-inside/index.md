@@ -6,4 +6,5 @@ J. Douglas & the Noises Inside (ex. The Others, japan::4) make the music, you do
 
 New EP _matter to waves_ out now.
 
+
 [![jdni](matter-to-waves.jpg)](https://jdouglasandthenoisesinside.bandcamp.com/)
