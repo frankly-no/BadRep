@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://frankly-no.github.io/BadRep/fr/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://frankly-no.github.io/BadRep/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://frankly-no.github.io/BadRep/fr/archives/"
-                />
   </url><url>
     <loc>https://frankly-no.github.io/BadRep/fr/frcategories/</loc>
   </url><url>

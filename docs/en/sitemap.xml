@@ -2,17 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frankly-no.github.io/BadRep/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://frankly-no.github.io/BadRep/fr/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://frankly-no.github.io/BadRep/archives/"
-                />
+    <loc>https://frankly-no.github.io/BadRep/contact/</loc>
   </url><url>
     <loc>https://frankly-no.github.io/BadRep/</loc>
     <xhtml:link
