@@ -2,8 +2,10 @@ baseurl = "https://frankly-no.github.io/BadRep/"
 languageCode = "en-us"
 title = "BadRep(a record label)"
 
+
 [params]
 logo = "img/logo.png"
+publishDir = "docs/"
 
 [menu]
 [[menu.main]]
