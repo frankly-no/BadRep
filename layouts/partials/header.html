@@ -1,0 +1,10 @@
+<header>
+    <nav>
+        <ul>
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+    <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo }}" alt="BadRep(a record label) Logo"></a>
+</header>
