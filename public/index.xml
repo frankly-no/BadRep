@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BadRep (a record label)</title>
+    <link>http://localhost:1313/BadRep/</link>
+    <description>Recent content on BadRep (a record label)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/BadRep/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/BadRep/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/BadRep/about/</guid>
+      <description>BadRep(a record label) is an independent record label founded in 2024.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/BadRep/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/BadRep/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>J Douglas &amp; the Noises Inside</title>
+      <link>http://localhost:1313/BadRep/jdni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/BadRep/jdni/</guid>
+      <description>J Douglas &amp;amp; the Noises Inside is an American indie rock band.&#xA;Style: background-color: #f7f7f7; color: #333;</description>
+    </item>
+    <item>
+      <title>japan::4</title>
+      <link>http://localhost:1313/BadRep/japan4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/BadRep/japan4/</guid>
+      <description>japan::4 is a Japanese electronic music artist.&#xA;Style: background-color: #333; color: #fff;</description>
+    </item>
+  </channel>
+</rss>
