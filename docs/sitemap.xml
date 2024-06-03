@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frankly-no.github.io/BadRep/artists/</loc>
-    <lastmod>2024-06-01T18:32:24-04:00</lastmod>
+    <loc>http://localhost:1313/BadRep/artists/</loc>
+    <lastmod>2024-06-01T18:37:38-04:00</lastmod>
   </url><url>
-    <loc>https://frankly-no.github.io/BadRep/</loc>
+    <loc>http://localhost:1313/BadRep/</loc>
     <lastmod>2024-06-01T18:35:45-04:00</lastmod>
   </url><url>
-    <loc>https://frankly-no.github.io/BadRep/categories/</loc>
+    <loc>http://localhost:1313/BadRep/categories/</loc>
   </url><url>
-    <loc>https://frankly-no.github.io/BadRep/artists/jdni/</loc>
-    <lastmod>2024-06-01T18:32:24-04:00</lastmod>
+    <loc>http://localhost:1313/BadRep/artists/jdni/</loc>
+    <lastmod>2024-06-01T18:37:38-04:00</lastmod>
   </url><url>
-    <loc>https://frankly-no.github.io/BadRep/artists/japan4/</loc>
-    <lastmod>2024-06-01T18:32:24-04:00</lastmod>
+    <loc>http://localhost:1313/BadRep/artists/japan4/</loc>
+    <lastmod>2024-06-01T18:37:38-04:00</lastmod>
   </url><url>
-    <loc>https://frankly-no.github.io/BadRep/tags/</loc>
+    <loc>http://localhost:1313/BadRep/tags/</loc>
   </url>
 </urlset>
