@@ -1,1 +1,0 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/BadRep/sw.js",{scope:"/BadRep/"})
