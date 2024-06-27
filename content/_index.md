@@ -3,7 +3,7 @@ header_brand: "BadRep (a record label)"
 header_tagline_paragraph: "A boutique record label founded in 2024."
 header_button_cta:
   url: "#jdouglas"
-  title: "J Douglas & the Noises Inside"
+  title: "The Noises Inside"
 header_button_more:
   url: "#japan4"
   title: "japan::4"
@@ -30,13 +30,13 @@ Check out this sweet preview. Impressed much, are you?
 
 ---
 
-# J Douglas & the Noises Inside {#jdouglas}
+# The Noises Inside {#jdouglas}
 
-J Douglas & the Noises Inside involves the initial compositions of producer, J Douglas which are then performed and expanded upon by a selection of rotating musicians and artists. 
+The Noises Inside involves the initial compositions of producer, J Douglas which are then performed and expanded upon by an eclectic selection of rotating musicians and artists. 
 
 > _Well, it actually fits the themes I tend to explore pretty well. I don't know what is going on in my own head most of the time! So having the Noises Inside be strangers just made sense in a way. - *J*_
 
-{{< spotify "https://open.spotify.com/embed/artist/1IClditYnziKIoaPPXk4wV?utm_source=generator">}}
+{{< spotify "https://open.spotify.com/embed/artist/4St4yGtVJsiokvuUc2cKvv?utm_source=generator">}}
 
 ---
 
