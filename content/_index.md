@@ -32,7 +32,7 @@ The Noises Inside involves the initial compositions of producer, J Douglas which
 
 > _Well, it actually fits the themes I tend to explore pretty well. I don't know what is going on in my own head most of the time! So having the Noises Inside be strangers just made sense in a way. - *J*_
 
-{{< spotify "https://open.spotify.com/embed/artist/4St4yGtVJsiokvuUc2cKvv?utm_source=generator">}}
+{{< spotify "https://open.spotify.com/embed/artist/4St4yGtVJsiokvuUc2cKvv?utm_source=generator" >}}
 
 ---
 
