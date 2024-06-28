@@ -44,9 +44,9 @@ The Noises Inside involves the initial compositions of producer, J Douglas which
 
 This is our contact information:
 
-J Douglas
+The Noises Inside
 1093 Simpson Square
-May 73851, OK
+Mayday 43210, VA
 USA
 
 E-mail: jay.dot.douglas@gmail.com
