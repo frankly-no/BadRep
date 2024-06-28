@@ -233,6 +233,7 @@ Add the correct display in Chrome and Safari.
 
 blockquote,
 h1,
+h2,
 hr,
 p {
   margin: 0;
@@ -322,10 +323,6 @@ hr {
  * https://github.com/tailwindcss/tailwindcss/issues/362
  */
 
-img {
-  border-style: solid;
-}
-
 button {
   cursor: pointer;
 }
@@ -338,7 +335,8 @@ button {
  * outline in Firefox by default.
  */
 
-h1 {
+h1,
+h2 {
   font-size: inherit;
   font-weight: inherit;
 }
@@ -391,7 +389,7 @@ button {
  *    https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210
  */
 
-img,
+
 iframe {
   display: block; /* 1 */
   vertical-align: middle; /* 2 */
@@ -404,18 +402,9 @@ iframe {
  * https://github.com/mozdevs/cssremedy/issues/14
  */
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 /**
  * Ensure the default browser behavior of the `hidden` attribute.
  */
-
-[hidden] {
-  display: none;
-}
 
 *, ::before, ::after {
   --tw-border-opacity: 1;
@@ -471,6 +460,15 @@ img {
   line-height: 1.1111111;
 }
 
+.prose h2 {
+  color: #1a202c;
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  line-height: 1.3333333;
+}
+
 .prose {
   font-size: 1rem;
   line-height: 1.75;
@@ -481,12 +479,11 @@ img {
   margin-bottom: 1.25em;
 }
 
-.prose img {
-  margin-top: 2em;
-  margin-bottom: 2em;
+.prose hr + * {
+  margin-top: 0;
 }
 
-.prose hr + * {
+.prose h2 + * {
   margin-top: 0;
 }
 
@@ -513,10 +510,6 @@ img {
   margin-top: 1.5rem;
 }
 
-.mt-12 {
-  margin-top: 3rem;
-}
-
 .mb-6 {
   margin-bottom: 1.5rem;
 }
@@ -527,10 +520,6 @@ img {
 
 .flex {
   display: flex;
-}
-
-.hidden {
-  display: none;
 }
 
 .min-h-screen {
@@ -547,10 +536,6 @@ img {
 
 .max-w-screen-xl {
   max-width: 1280px;
-}
-
-.flex-shrink-0 {
-  flex-shrink: 0;
 }
 
 @keyframes spin {
@@ -584,10 +569,6 @@ img {
   }
 }
 
-.flex-col {
-  flex-direction: column;
-}
-
 .justify-start {
   justify-content: flex-start;
 }
@@ -606,11 +587,6 @@ img {
   background-color: rgba(247, 250, 252, var(--tw-bg-opacity));
 }
 
-.bg-gray-800 {
-  --tw-bg-opacity: 1;
-  background-color: rgba(45, 55, 72, var(--tw-bg-opacity));
-}
-
 .bg-teal-500 {
   --tw-bg-opacity: 1;
   background-color: rgba(56, 178, 172, var(--tw-bg-opacity));
@@ -626,18 +602,9 @@ img {
   background-color: rgba(49, 151, 149, var(--tw-bg-opacity));
 }
 
-.p-2 {
-  padding: 0.5rem;
-}
-
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
-}
-
-.px-5 {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
 }
 
 .px-6 {
@@ -650,10 +617,6 @@ img {
   padding-bottom: 0.75rem;
 }
 
-.pt-4 {
-  padding-top: 1rem;
-}
-
 .pt-12 {
   padding-top: 3rem;
 }
@@ -664,10 +627,6 @@ img {
 
 .pt-24 {
   padding-top: 6rem;
-}
-
-.pb-6 {
-  padding-bottom: 1.5rem;
 }
 
 .pb-16 {
@@ -733,11 +692,6 @@ img {
 
 .shadow-md {
   --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
-.shadow-lg {
-  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
@@ -849,10 +803,6 @@ img {
 }
 
 @media (min-width: 768px) {
-
-  .md\:block {
-    display: block;
-  }
 
   .md\:justify-center {
     justify-content: center;
